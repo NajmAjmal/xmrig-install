@@ -1,6 +1,6 @@
 # xmrig-install
 Quick tutorial on how to install XMRig
-
+> For Raspberry pi, View Installation commands [here](https://github.com/NajmAjmal/xmrig-install-raspberrypi)
 
 <li>Disable your Anti-virus during this process</li>
 <li>Download XMRig https://xmrig.com/download</li>
